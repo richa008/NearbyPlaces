@@ -1,0 +1,6 @@
+<div class="list-group-item" ng-class="{selected: $index === selected}">
+    <a class="places-list" href="#" ng-click="getPlaceDetails(place.place_id, $index)"> 
+        <b class="list-name">{{ place.name }}</b> 
+        <span class="list-address">{{ place.formatted_address }}</span>
+    </a>
+</div>    

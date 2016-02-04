@@ -1,0 +1,81 @@
+.header{
+    background-color: #337ab7;
+    color: white;
+    border-bottom: solid 1px ##204d74;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.map{
+    height: 300px;
+}
+
+.section{
+    min-height: 400px;
+}
+
+.places-list{
+    margin-top: 20px;
+}
+
+.places-list:hover{
+    text-decoration: none;
+}
+
+.places-list .list-address{
+    color: black;
+}
+
+.places-list .list-name{
+    display:block;
+    padding-bottom:10px;
+}
+
+.no-results{
+    color: #666;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.section-border{
+    border-right: 1px solid #efefef;
+    border-left: 1px solid #efefef;
+}
+
+.place-details .address p{
+    margin-bottom:0px;
+}
+
+.place-details .websites p{
+    margin-bottom:0px;
+}
+
+.place-details .subheader{   
+    color:#666;
+    margin-bottom:10px;
+}
+
+.subsection{
+    margin-bottom:20px;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.reviews li{
+    padding-bottom: 15px;
+}
+
+.selected{
+    background-color: #337ab7;
+    color:white;
+}
+
+.selected a, .selected .list-address, .selected a:hover{
+    color: white;
+    text-decoration: none;
+}
+
