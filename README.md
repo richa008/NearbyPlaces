@@ -6,8 +6,8 @@ Provides a query box and a search button and then calls the Places Library for G
 
 Note: Google Maps api asks for permission to access your current location. Select Allow to use the Search nearby places feature
 
-Libraries used -
-AngularJs
-JQuery
+Libraries used -<br>
+AngularJs<br>
+JQuery<br>
 Bootstrap CSS
 
