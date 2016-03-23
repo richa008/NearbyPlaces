@@ -1,6 +1,6 @@
 {
-  "name": "javascript-ctci",
-  "description": "A compilation of Javascript CTCI ",
+  "name": "places-app",
+  "description": "Searches for places and shows place details",
   "author": "Richa",
   "engine": "node >= 0.4.1",
   "dependencies": {
@@ -10,6 +10,6 @@
   "license": "MIT",
   "repository":{
       "type": "git",
-      "url": "https://github.com/richa008/Javascript-CTCI"
+      "url": "https://github.com/richa008/NearbyPlaces"
   }    
 }
