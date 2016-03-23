@@ -1,0 +1,15 @@
+{
+  "name": "javascript-ctci",
+  "description": "A compilation of Javascript CTCI ",
+  "author": "Richa",
+  "engine": "node >= 0.4.1",
+  "dependencies": {
+      "express": "~3.4.7",
+      "json-lint": "~0.1.0"
+  },
+  "license": "MIT",
+  "repository":{
+      "type": "git",
+      "url": "https://github.com/richa008/Javascript-CTCI"
+  }    
+}
