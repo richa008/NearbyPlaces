@@ -11,3 +11,8 @@ AngularJs<br>
 JQuery<br>
 Bootstrap CSS
 
+To run using node,
+1. Go to folder and do npm install
+2. Install http-server, npm install http-server -g
+3. Start the server, http-server
+4. Go to the port at which the server starts, http://127.0.0.1:8081/index.html
