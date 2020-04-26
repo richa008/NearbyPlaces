@@ -1,15 +1,15 @@
 {
-  "name": "places-app",
-  "description": "Searches for places and shows place details",
-  "author": "Richa",
-  "engine": "node >= 0.4.1",
-  "dependencies": {
-      "express": "~3.4.7",
-      "json-lint": "~0.1.0"
-  },
-  "license": "MIT",
-  "repository":{
-      "type": "git",
-      "url": "https://github.com/richa008/NearbyPlaces"
-  }    
+    "name": "places-app",
+    "description": "Searches for places and shows place details",
+    "author": "Richa",
+    "engine": "node >= 0.4.1",
+    "dependencies": {
+        "express": "^4.17.1",
+        "json-lint": "~0.1.0"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/richa008/NearbyPlaces"
+    }
 }
